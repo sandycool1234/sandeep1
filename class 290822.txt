@@ -1,0 +1,11 @@
+pwd----> present working directory
+ls---> list all the files in the directory
+mkdir--> to create folder
+rmdir---> to remove an empty folder
+rm -r---> to remove occupied folder
+clear---> to clear the screen
+nano---> 
+https://github.com/sandycool1234/sandeep1.git
+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 
+username :sandycool1234
+password :Sandy@12345678
